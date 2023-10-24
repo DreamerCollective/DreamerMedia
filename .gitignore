@@ -97,9 +97,3 @@ fabric.properties
 
 .svelte-kit/
 package
-
-
-pb_data/
-pb_migrations/
-
-.db
