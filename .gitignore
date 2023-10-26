@@ -97,3 +97,5 @@ fabric.properties
 
 .svelte-kit/
 package
+dreamermediabackend/pb_data/data.db
+dreamermediabackend/pb_data/logs.db
